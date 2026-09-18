@@ -1,1 +1,3 @@
-# assignment-3b-ads
+# Programming Assignment 3b
+## Algorithms and Data Structures
+Matt Ondracek
